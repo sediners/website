@@ -1,0 +1,17 @@
+Wojtek:
+  name        : "Wojtek Nowicki"
+  bio         : "coffee shop"
+  # avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+  # - label: "Email"
+  #   icon: "fas fa-fw fa-envelope-square"
+  #   url: "mailto:billyrick@rick.com"
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://wojciechnowicki.com"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/wnowicki"
+  # - label: "Twitter"
+  #   icon: "fab fa-fw fa-twitter-square"
+  #   url: "https://twitter.com/extravagantman"
